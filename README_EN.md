@@ -19,10 +19,8 @@ Key features:
 
 ## 📁 Contents
 
-- `ctsa_main.m`: Main script for executing CTSA
-- `benchmark_functions/`: Includes 13 constrained benchmark problems
-- `deb_rules.m`: Constraint handling mechanism using Deb’s rules
-- `results/`: Final results, convergence plots, violation summaries
+- `run_DebTSA.m`: Main script for executing CTSA
+- `output/`: Final results, convergence plots, violation summaries
 
 ## 🛠 Requirements
 
