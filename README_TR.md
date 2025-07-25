@@ -19,10 +19,8 @@ Temel özellikler:
 
 ## 📁 Klasör Yapısı
 
-- `ctsa_main.m`: CTSA algoritmasının ana yürütme dosyası
-- `benchmark_functions/`: 13 kısıtlı benchmark problemi
-- `deb_rules.m`: Deb kısıt yönetimi algoritması
-- `results/`: Çözüm kalitesi, yakınsama ve kısıt ihlali analizleri
+- `run_DebTSA.m`: CTSA algoritmasının ana yürütme dosyası
+- `output/`: Çözüm kalitesi, yakınsama ve kısıt ihlali analizleri
 
 ## 🛠 Gereksinimler
 
